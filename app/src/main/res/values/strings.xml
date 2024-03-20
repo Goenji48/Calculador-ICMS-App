@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Calculador de ICMS</string>
+    <string-array name="state_list_array">
+        <item>AC - Acre</item>
+        <item>AL - Alagoas</item>
+        <item>AM - Amazona</item>
+        <item>AP - Amapá</item>
+        <item>BA - Bahia</item>
+        <item>CE - Céara</item>
+        <item>DF - Distrito Federal</item>
+        <item>ES - Espírito Santo</item>
+        <item>GO - Goiás</item>
+        <item>MA - Maranhão</item>
+        <item>MG - Minas Gerais</item>
+        <item>MS - Mato Grosso do Sul</item>
+        <item>MT - Mato Grosso</item>
+        <item>PA - Pará</item>
+        <item>PB - Paraíba</item>
+        <item>PE - Pernambuco</item>
+        <item>PI - Piauí</item>
+        <item>PR - Paraná</item>
+        <item>RJ - Rio de Janeiro</item>
+        <item>RN - Rio Grande do Norte</item>
+        <item>RO - Rondônia</item>
+        <item>RR - Roraima</item>
+        <item>RS - Rio Grande do Sul</item>
+        <item>SC - Santa Catarina</item>
+        <item>SE - Sergipe</item>
+        <item>SP - São Paulo</item>
+        <item>TO - Tocantins</item>
+    </string-array>
+    <string-array name="icms_value_array">
+        <item>19</item>
+        <item>19</item>
+        <item>20</item>
+        <item>18</item>
+        <item>20.50</item>
+        <item>20</item>
+        <item>20</item>
+        <item>17</item>
+        <item>19</item>
+        <item>22</item>
+        <item>18</item>
+        <item>17</item>
+        <item>17</item>
+        <item>19</item>
+        <item>20</item>
+        <item>20.50</item>
+        <item>21</item>
+        <item>19.50</item>
+        <item>22</item>
+        <item>18</item>
+        <item>19.50</item>
+        <item>20</item>
+        <item>17</item>
+        <item>17</item>
+        <item>20</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+</resources>

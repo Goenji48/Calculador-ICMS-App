@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ICMSCalculator" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorSurfaceContainerLow">@color/yellow</item>
+        <item name="colorSurfaceContainer">#101010</item>
+        <item name="colorSurfaceContainerHighest">#101010</item>
+        <item name="colorOnPrimary">#101010</item>
+        <item name="colorPrimaryContainer">@color/yellow</item>
+        <item name="android:windowBackground">#101010</item>
+        <item name="android:statusBarColor">#101010</item>
+        <item name="android:navigationBarColor">#101010</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="DefaultAlertDialogStyle" parent="Theme.Material3.Dark.Dialog.Alert">
+        <item name="colorSurfaceContainerHigh">#101010</item>
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="scrimBackground">@color/yellow</item>
+    </style>
+</resources>
